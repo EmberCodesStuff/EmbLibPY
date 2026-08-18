@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="docs/images/sillyCat.png" height = "250" width = "250">
-  <h6>meow</h6>
+  meow
 </p>
 
 #  Functions
