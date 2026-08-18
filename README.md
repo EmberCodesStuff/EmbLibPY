@@ -4,7 +4,7 @@
 > It's got weird stuff to make Kitty Sounds, do unnecessary Math, and some fun text functions! 😺✖️🔡
 
 <p align="center">
-  <img src="docs/images/sillyCat.png">
+  <img src="docs/images/sillyCat.png" height = "250" width = "250">
   <h6>meow</h6>
 </p>
 
