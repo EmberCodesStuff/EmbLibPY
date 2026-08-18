@@ -9,14 +9,20 @@
 </p>
 
 #  Functions
-> meowSound(type) 
+> meowSound(type)
+
 
 > lowestCommonFactor(numbers)
+
 > highestCommonMultiple(numbers, limit)
+
 > numGoBrr(number, times)
 
+
 > wierdCase(text)
+
 > scramble(text)
+
 > skillIssue()
 
 (told you it was weird :) )
