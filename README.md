@@ -3,6 +3,11 @@
 > Tiny Lil' Python Library made by Ember for fun XD 
 > It's got weird stuff to make Kitty Sounds, do unnecessary Math, and some fun text functions! 😺✖️🔡
 
+<p align="center">
+  <img src="docs/images/sillyCat.png">
+  <h6>meow</h6>
+</p>
+
 #  Functions
 > meowSound(type) 
 
@@ -16,10 +21,18 @@
 
 (told you it was weird :) )
 
-# Usage
-**DISCLAMER ⚠ :** This library CANNOT be used on platforms other than Windows due to the usage of the winsound library, available ONLY on Windows. No other dependencies required.
+# Installation
 
-(coming soon :P)
+<a href = "https://pypi.org/project/emblibpy/"><img src="docs/images/pypi.jpg"></a>
+
+We can install the library using pip, just run the following command in your terminal:
+```bash
+pip install emblibpy
+```
+(yea its as easy as that :P)
+
+
+
 
 
 
