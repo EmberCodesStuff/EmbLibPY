@@ -19,6 +19,8 @@
 # Usage
 **DISCLAMER ⚠ :** This library CANNOT be used on platforms other than Windows due to the usage of the winsound library, available ONLY on Windows. No other dependencies required.
 
+(coming soon :P)
+
 
 
 
