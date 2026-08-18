@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="docs/images/sillyCat.png" height = "250" width = "250">
+  <br>
   meow
 </p>
 
