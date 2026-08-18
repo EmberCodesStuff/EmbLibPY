@@ -20,7 +20,7 @@
 > numGoBrr(number, times)
 
 
-> wierdCase(text)
+> weirdCase(text)
 
 > scramble(text)
 
@@ -32,7 +32,7 @@
 
 DISCLAMER ⚠️: If you are on Linux or Mac, you can still use the other functions, but the meowSound function will not work due to the use of the winsound module, which is only available on Windows.
 
-<a href = "https://pypi.org/project/emblibpy/" target = "_blank"><img src="docs/images/pypi.jpg"></a>
+<a href = "https://pypi.org/project/emblibpy/" target = "_blank"><img src="docs/images/pypi.jpg" width = "369" height = "166"></a>
 
 We can install the library using pip, just run the following command in your terminal:
 ```bash
